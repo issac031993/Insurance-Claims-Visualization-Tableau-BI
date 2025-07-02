@@ -27,7 +27,7 @@ Insurance companies need to anticipate claims, identify risk patterns, and tailo
 - Age is concentrated between **60-80 years**, signaling an older customer base.
 - Highest education: **High School graduates (2,383)**.
 
-![Customer Demographics](images/customer_demographics.png)
+![Customer Demographics](https://github.com/user-attachments/assets/196a2888-f7d5-43b9-9832-f825898cc756)
 
 ---
 
@@ -38,7 +38,7 @@ Insurance companies need to anticipate claims, identify risk patterns, and tailo
   - Clerical (16.8%)
   - Professionals & Managers together ~27%.
 
-![Income & Occupation](images/income_occupation.png)
+!Income and Occupation](https://github.com/user-attachments/assets/26f4cd60-0cbc-4e11-96d0-76e88efbaa00)
 
 ---
 
@@ -46,14 +46,15 @@ Insurance companies need to anticipate claims, identify risk patterns, and tailo
 - **SUVs & Minivans** have the **highest claim frequency**, making them high-risk segments.
 - **SUVs also incur the highest claim severity (~$3,500k)**.
 
-![Claim Frequency & Severity](images/claim_patterns.png)
+![Claim Frequency and Severity Analysis](https://github.com/user-attachments/assets/495c3478-f2cd-48cc-b7e1-c55926fe0044)
 
 ---
 
 ### ⏳ Car Age vs Claim Amount
 - Claims are **highest (~$4,000k) when cars are new (0-1 years old)**, then decrease as cars age.
 
-![Car Age vs Claims](images/car_age_claims.png)
+![Car Age vs Total Claim Amount](https://github.com/user-attachments/assets/f8764269-ead7-4ef5-95d4-f7049c1f2b3b)
+
 
 ---
 
